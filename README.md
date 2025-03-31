@@ -1,4 +1,4 @@
-# 👩‍💻 Nguyen Thanh Hoa
+# 👨‍💻 Nguyen Thanh Hoa
 
 🎓 **3rd-year Artificial Intelligence student at FPT University**  
 🌱 Passionate about applying AI to real-world problems  
