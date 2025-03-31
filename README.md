@@ -80,8 +80,6 @@ Here is some information on my projects and contributions:
 - University-level academic research, writing, and communication
 - Critical thinking, problem-solving, and digital literacy
 
----
----
 All certifications were earned from top institutions (IBM, University of Sydney, UC San Diego, DeepLearning.AI, etc.) via Coursera.
 ---
 
