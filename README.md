@@ -15,10 +15,11 @@ I pursue a direction in **Data Science**, **Applied AI**, and **practical softwa
 
 ## 🔧 Skills
 
-- 💻 **Programming Languages**: Python, Java, SQL, JavaScript
-- 📊 **Libraries**: Pandas, Numpy, Matplotlib, Scikit-learn, Flask
-- 🧠 **Frameworks**: Spring Boot, AngularJS
-- 🛠 **Tools**: GitHub, Docker, Postman, Bitbucket
+- 💻 **Programming Languages**: Python, SQL.
+- 📊 **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn,Flask.
+- 🧠 **AI/ML Frameworks**: TensorFlow, PyTorch, Keras, XGBoost, LightGBM.
+- 🚀 **Model Deployment**: Flask, FastAPI, Docker,Trism, ONNX, Triton Inference Server.
+- 🛠 **Tools & DevOps**: GitHub, Git, Docker, Postman, Bitbucket.
 
 ---
 
@@ -27,6 +28,17 @@ I pursue a direction in **Data Science**, **Applied AI**, and **practical softwa
 - 🥇 **First Prize at Provincial Hackathon** – Project integrating AI and Web
 - 🧑‍🏫 Teaching Assistant for Data Science course – FPT University
 - 🌐 Developed Youth Union Management System for Dong Nai Province
+
+---
+
+---
+
+## 🎓 Conferences & Research
+
+- 📘 **International Conference on Information Technology (ICIIT2025)**  
+  Presented the research topic:  
+  **“Mastering Market Peaks and Valleys: Advanced Trading with Deep Reinforcement Learning”**  
+  Focused on applying AI, particularly deep reinforcement learning, to financial market prediction and decision-making.
 
 ---
 
