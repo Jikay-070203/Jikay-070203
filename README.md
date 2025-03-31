@@ -49,6 +49,42 @@ Here is some information on my projects and contributions:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jikay-070203&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jikay-070203&langs_count=8&layout=compact&hide=css,dockerfile&theme=transparent)
 
 ---
+---
+# 📜 Certificate Portfolio Summary – Nguyễn Thanh Hòa
+
+- Completed certifications across the following domains:
+
+## 🤖 Artificial Intelligence & Ethics
+- Core AI concepts and algorithms
+- Natural Language Processing with modern techniques (RNN, LSTM, Transformer)
+- Data fairness, privacy, and ethics in AI deployment
+- Real-world applications using IBM Watson and ethical considerations
+
+## 📊 Data Science & Machine Learning
+- Python and R for data analysis, visualization, and statistics
+- Supervised and unsupervised learning techniques
+- Deep learning fundamentals and neural network optimization
+- Project structuring and hands-on capstone experience
+
+## 💻 Software & Full-Stack Development
+- Web technologies: HTML, CSS, JavaScript, React, Node.js
+- Backend development using Flask and Django
+- Git, GitHub, Agile, Lean, and SDLC practices
+- Full-stack deployment projects with CI/CD pipelines
+
+## ☁️ Big Data & Cloud Computing
+- Big data modeling, ETL pipelines, and graph analytics
+- Cloud computing fundamentals and container orchestration (Docker, Kubernetes, OpenShift)
+
+## 🎓 Academic & Communication Skills
+- University-level academic research, writing, and communication
+- Critical thinking, problem-solving, and digital literacy
+
+---
+---
+All certifications were earned from top institutions (IBM, University of Sydney, UC San Diego, DeepLearning.AI, etc.) via Coursera.
+---
+
 
 ## 📫 Contact
 
