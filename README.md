@@ -28,7 +28,7 @@ I pursue a direction in **Data Science**, **Applied AI**, and **practical softwa
 - 🥇 **First Prize at Provincial Hackathon** – Project integrating AI and Web
 - 🧑‍🏫 Teaching Assistant for Data Science course – FPT University
 - 🌐 Developed Youth Union Management System for Dong Nai Province
-- 🧑‍💼 **2024 Training Program on ICT for Government Officers** – Delivered technology training for officers of the People’s Committee of Thu Duc City, focusing on IT & communication knowledge enhancement
+- 🧑‍💼 **2024 Training Program on ICT for Government Officers** – Technology training for Thu Duc City People's Committee officials, focusing on improving IT & communication knowledge with artificial intelligence.
 - 📖 Conferences & Research at **International Conference on Information Technology (ICIIT2025)**
 
 ---
