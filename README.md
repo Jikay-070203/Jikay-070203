@@ -33,19 +33,13 @@ I pursue a direction in **Data Science**, **Applied AI**, and **practical softwa
 ## 📈 Contributions
 
 Here is some information on my projects and contributions:
-
-Here is some information on my projects and contributions:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jikay-070203&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jikay-070203&langs_count=8&layout=compact&hide=css,dockerfile&theme=transparent)
 
 ---
 
 ## 📫 Contact
 
-- GitHub: [github.com/Jkayz-070203](https://github.com/Jkayz-070203)
+- GitHub: [github.com/Jkayz-070203](https://github.com/Jikay-070203)
 - Portfolio: [beacons.ai/nguyenthanhhoa](https://beacons.ai/nguyenthanhhoa)
 - Email: hoanguyenthanh07@gmail.com
-
-```
-
-
-```
+- Telegram: https://t.me/hoanguyenthanh07
