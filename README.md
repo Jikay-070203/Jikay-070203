@@ -24,9 +24,29 @@ I pursue a direction in **Data Science**, **Applied AI**, and **practical softwa
 
 ## 🏆 Achievements
 
-- 🥇 **First Prize at Provincial Hackathon** – Project integrating AI and Web
-- 🧑‍🏫 Teaching Assistant for Data Science course – FPT University
+- 🥇 **First Prize at Provincial Hackathon** – Project integrating AI and Web  
+- 🧑‍🏫 Teaching Assistant for Data Science course – FPT University  
 - 🌐 Developed Youth Union Management System for Dong Nai Province
+
+---
+
+## 📈 Contributions
+
+Here is some information on my projects and contributions:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jkayz-070203&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkayz-070203&langs_count=8&layout=compact&hide=css,dockerfile&theme=transparent)
+
+---
+
+## 🔐 Public Keys
+
+Here is my public key so you can verify or grant me access to private repositories:
+
+```bash
+# SSH key
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHE7PqDt8ph9CTbqWMPhP+zkPcHITj4zNAAta2sTx/Aq openpgp:0xE5BC94EF
+```
 
 ---
 
