@@ -47,64 +47,68 @@ I pursue a direction in **Data Science**, **Applied AI**, and **practical softwa
 
 Here is some information on my projects and contributions:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jikay-070203&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jikay-070203&langs_count=8&layout=compact&hide=css,dockerfile&theme=transparent)
-**Languages and Tools:** 
+**Languages and Tools:**
 
 <div style="margin: 20px>
   </div>
 
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></code>
-  <br/>
-  
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
-  <br/>
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></code>
+<br/>
 
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg"></code>
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></code>
-  <br/>
-  
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
-  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
-  <br/>
-  
-</div>
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+<br/>
+
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg"></code>
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></code>
+<br/>
+
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+<br/>
+
+## </div>
+
 ---
----
+
 # 📜 Certificate Portfolio Summary
 
 - Completed certifications across the following domains:
 
 ## 🤖 Artificial Intelligence & Ethics
+
 - Core AI concepts and algorithms
 - Natural Language Processing with modern techniques (RNN, LSTM, Transformer)
 - Data fairness, privacy, and ethics in AI deployment
 - Real-world applications using IBM Watson and ethical considerations
 
 ## 📊 Data Science & Machine Learning
+
 - Python and R for data analysis, visualization, and statistics
 - Supervised and unsupervised learning techniques
 - Deep learning fundamentals and neural network optimization
 - Project structuring and hands-on capstone experience
 
 ## 💻 Software & Full-Stack Development
+
 - Web technologies: HTML, CSS, JavaScript, React, Node.js
 - Backend development using Flask and Django
 - Git, GitHub, Agile, Lean, and SDLC practices
 - Full-stack deployment projects with CI/CD pipelines
 
 ## ☁️ Big Data & Cloud Computing
+
 - Big data modeling, ETL pipelines, and graph analytics
 - Cloud computing fundamentals and container orchestration (Docker, Kubernetes, OpenShift)
 
 ## 🎓 Academic & Communication Skills
+
 - University-level academic research, writing, and communication
 - Critical thinking, problem-solving, and digital literacy
 
-All certifications were earned from top institutions (IBM, University of Sydney, UC San Diego, DeepLearning.AI, etc.) via Coursera.
----
-
+## All certifications were earned from top institutions (IBM, University of Sydney, UC San Diego, DeepLearning.AI, etc.) via Coursera.
 
 ## 📫 Contact
 
