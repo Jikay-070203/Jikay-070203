@@ -47,7 +47,8 @@ I pursue a direction in **Data Science**, **Applied AI**, and **practical softwa
 
 Here is some information on my projects and contributions:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jikay-070203&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jikay-070203&langs_count=8&layout=compact&hide=css,dockerfile&theme=transparent)
-**Languages and Tools:**
+
+## **Languages and Tools:**
 
 <div style="margin: 20px>
   </div>
@@ -70,8 +71,6 @@ Here is some information on my projects and contributions:
 <br/>
 
 ## </div>
-
----
 
 ---
 
