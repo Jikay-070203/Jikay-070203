@@ -68,6 +68,7 @@ Here is some information on my projects and contributions:
 <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
 <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
 <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+<code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bitbucket-Light.svg"></code>
 <br/>
 
 ## </div>
@@ -113,7 +114,7 @@ Here is some information on my projects and contributions:
 
 ## 📫 Contact
 
-- GitHub: [github.com/Jkayz-070203](https://github.com/Jikay-070203)
-- Portfolio: [beacons.ai/nguyenthanhhoa](https://beacons.ai/nguyenthanhhoa)
+- GitHub: [github.com/Jikay-070203](https://github.com/Jikay-070203)
+- Portfolio: [[beacons.ai/nguyenthanhhoa](https://beacons.ai/nguyenthanhhoa)]
 - Email: hoanguyenthanh07@gmail.com
-- Telegram: https://t.me/hoanguyenthanh07
+- Telegram: [https://t.me/hoanguyenthanh07](https://t.me/hoanguyenthanh07)
