@@ -73,6 +73,8 @@ Here is some information on my projects and contributions:
 
 ---
 
+---
+
 # 📜 Certificate Portfolio Summary
 
 - Completed certifications across the following domains:
