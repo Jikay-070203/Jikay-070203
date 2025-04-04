@@ -50,6 +50,35 @@ Here is some information on my projects and contributions:
 
 ---
 ---
+
+**Languages and Tools:** 
+
+<div style="margin: 20px>
+  
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jikay-070203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jikay-070203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </div>
+
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></code>
+  <br/>
+  
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+  <br/>
+
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></code>
+  <br/>
+  
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
+  <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+  <br/>
+  
+</div>
+---
 # 📜 Certificate Portfolio Summary
 
 - Completed certifications across the following domains:
