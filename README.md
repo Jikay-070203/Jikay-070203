@@ -52,22 +52,22 @@ Here is some information on my projects and contributions:
 
 <div style="margin: 20px">
 
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python"></code>
   <br/>
 
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS"></code>
   <br/>
 
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" alt="TensorFlow"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch"></code>
   <br/>
 
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bitbucket-Light.svg"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bitbucket-Light.svg" alt="Bitbucket"></code>
 
 </div>
 
