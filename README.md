@@ -68,7 +68,7 @@ Here is some information on my projects and contributions:
 <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
 <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
 <code><img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
-<img width="5%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bitbucket-Light.svg">
+![Bitbucket](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bitbucket-Light.svg)
 
 <br/>
 
