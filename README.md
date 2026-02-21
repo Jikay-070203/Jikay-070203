@@ -1,7 +1,8 @@
 # 👨‍💻 Nguyen Thanh Hoa
 ### **AI Engineer | Data Scientist | Deep Learning Researcher**
 
-🎓 **Artificial Intelligence @ FPT University (FPTU)** 🚀 **Specializing in:** Applied AI, Deep Reinforcement Learning, and Scalable Model Deployment.  
+🎓 **Artificial Intelligence @ FPT University (FPTU)** 
+🚀 **Specializing in:** Applied AI, Deep Reinforcement Learning, and Scalable Model Deployment.  
 🌱 **Passionate about:** Bridging the gap between academic research and production-ready AI solutions.
 
 ---
@@ -22,9 +23,9 @@ Beyond coding, I have a strong interest in **Quantitative Finance** and **Intell
 * **Data Engineering:** Pandas, NumPy, SQL, ETL Pipelines, Big Data Modeling.
 
 ### **AI Deployment & MLOps**
-* **Serving:** FastAPI, Flask, Triton Inference Server, ONNX.
+* **Serving:** FastAPI, Triton Inference Server, ONNX.
 * **Infrastructure:** Docker, Kubernetes, CI/CD, VPS Management.
-* **Tools:** GitHub, Git, Bitbucket, Postman, Weights & Biases (W&B).
+* **Tools:** GitHub, Git, Bitbucket, Postman
 
 ---
 
@@ -33,18 +34,22 @@ Beyond coding, I have a strong interest in **Quantitative Finance** and **Intell
 ### **Featured Research**
 * **Deep Reinforcement Learning in Finance (ICIIT 2025):** "Mastering Market Peaks and Valleys: Advanced Trading with DRL." Investigated autonomous decision-making in volatile financial markets.
 
-### **Applied AI Projects**
+### **Applied AI & Software Projects**
+* **HAZONIX:** Architecting an AI-integrated real-estate platform for optimized property listings and smart matching.
 * **Smart Waste Management:** Building an AI-driven identification system for provincial students to automate waste classification.
-* **HAZONIX:** Developing an AI-integrated real-estate platform to optimize property listings and user matching.
-* **Legal Data Crawler (TVPL):** Architecting a high-performance system to crawl and process legal data for downstream NLP tasks.
+* **Legal Data Pipeline (TVPL):** Developed a high-performance Python crawler to process legal data for downstream NLP tasks.
 * **Youth Union Management System:** Digital transformation project for Dong Nai Province.
+* **Mobile Ecosystem:** Experience in developing cross-platform applications using Flutter.
 
 ---
 
 ## 🏆 Achievements & Impact
-* 🥇 **First Prize at Provincial Hackathon:** Project successfully integrating AI and Web.
-* 🧑‍🏫 **Teaching Assistant (Data Science):** FPT University.
-* 🧑‍💼 **ICT Trainer (2024):** Technology training for Thu Duc City People's Committee officials, focusing on AI and IT knowledge.
+
+* 🚀 **Top 10 Most Impressive Startup Projects (Advanced Track):** Awarded at **Uni.Start 2025** for innovative entrepreneurial vision.
+* 📊 **Data Science Competition Finalist:** Ranked at **UIT (University of Information Technology)** Data Science contests.
+* 🥇 **First Prize at Provincial Hackathon:** Recognized for a project successfully integrating AI with Web technologies.
+* 🧑‍🏫 **Teaching Assistant (Data Science):** Assisting in curriculum delivery and student support at **FPT University**.
+* 🧑‍💼 **ICT Trainer (2024):** Conducted technology training for **Thu Duc City People's Committee** officials, focusing on AI applications and IT literacy.
 
 ---
 
@@ -60,7 +65,8 @@ Beyond coding, I have a strong interest in **Quantitative Finance** and **Intell
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" alt="TensorFlow"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch"></code>
-  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django"></code>
+  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Light.svg" alt="Flutter"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"></code>
 </div>
@@ -76,6 +82,6 @@ Beyond coding, I have a strong interest in **Quantitative Finance** and **Intell
 
 ## 📫 Contact
 * **GitHub:** [github.com/Jikay-070203](https://github.com/Jikay-070203)
-* **Portfolio:** [beacons.ai/nguyenthanhhoa](https://beacons.ai/nguyenthanhhoa)
+* **Portfolio:** [thanhhoa.pages.dev](https://thanhhoa.pages.dev/)
 * **Email:** hoanguyenthanh07@gmail.com
 * **Telegram:** [@hoanguyenthanh07](https://t.me/hoanguyenthanh07)
