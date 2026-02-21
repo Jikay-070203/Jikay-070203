@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Nguyen%20Thanh%20Hoa&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 
   ### **AI Engineer | Data Scientist | Deep Learning Researcher**
   
