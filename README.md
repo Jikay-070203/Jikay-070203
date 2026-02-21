@@ -1,118 +1,81 @@
 # 👨‍💻 Nguyen Thanh Hoa
+### **AI Engineer | Data Scientist | Deep Learning Researcher**
 
-🎓 **3rd-year Artificial Intelligence student at FPT University**  
-🌱 Passionate about applying AI to real-world problems  
-🚀 Goal: Become an applied AI expert and create impactful products
+🎓 **Artificial Intelligence @ FPT University (FPTU)** 🚀 **Specializing in:** Applied AI, Deep Reinforcement Learning, and Scalable Model Deployment.  
+🌱 **Passionate about:** Bridging the gap between academic research and production-ready AI solutions.
 
 ---
 
 ## 👋 About Me
+I am an AI Engineer focusing on the full lifecycle of data-driven products—taming raw data, architecting neural networks, and deploying them to production.
 
-Hi! I'm **Nguyen Thanh Hoa**, currently a 3rd-year student majoring in **Artificial Intelligence** at **FPT University**.  
-I pursue a direction in **Data Science**, **Applied AI**, and **practical software development**.
-
----
-
-## 🔧 Skills
-
-- 💻 **Programming Languages**: Python, SQL.
-- 📊 **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn,Flask.
-- 🧠 **AI/ML Frameworks**: TensorFlow, PyTorch, Keras, XGBoost, LightGBM.
-- 🚀 **Model Deployment**: Flask, FastAPI, Docker,Trism, ONNX, Triton Inference Server.
-- 🛠 **Tools & DevOps**: GitHub, Git, Docker, Postman, Bitbucket.
+Beyond coding, I have a strong interest in **Quantitative Finance** and **Intelligent Systems**, having presented research on Deep Reinforcement Learning for market prediction at international conferences.
 
 ---
 
-## 🏆 Achievements
+## 🧠 Technical Expertise
 
-- 🥇 **First Prize at Provincial Hackathon** – Project integrating AI and Web
-- 🧑‍🏫 Teaching Assistant for Data Science course – FPT University
-- 🌐 Developed Youth Union Management System for Dong Nai Province. (in progress)
-- 🌐 Building a waste identification management system for students in the province. (in progress)
-- 🧑‍💼 **2024 Training Program on ICT for Government Officers** – Technology training for Thu Duc City People's Committee officials, focusing on improving IT & communication knowledge with artificial intelligence.
-- 📖 Conferences & Research at **International Conference on Information Technology (ICIIT2025)**
+### **Core AI & Data Science**
+* **Machine Learning:** Scikit-learn, XGBoost, LightGBM, Ensemble Learning.
+* **Deep Learning:** PyTorch, TensorFlow, Keras (CNN, RNN, LSTM, Transformers).
+* **NLP & Vision:** Text processing, Sentiment Analysis, Image Classification & Object Detection.
+* **Data Engineering:** Pandas, NumPy, SQL, ETL Pipelines, Big Data Modeling.
 
----
-
-## 🎓 Conferences & Research
-
-- 📘 **International Conference on Information Technology (ICIIT2025)**  
-  Presented the research topic:  
-  **“Mastering Market Peaks and Valleys: Advanced Trading with Deep Reinforcement Learning”**  
-  Focused on applying AI, particularly deep reinforcement learning, to financial market prediction and decision-making.
+### **AI Deployment & MLOps**
+* **Serving:** FastAPI, Flask, Triton Inference Server, ONNX.
+* **Infrastructure:** Docker, Kubernetes, CI/CD, VPS Management.
+* **Tools:** GitHub, Git, Bitbucket, Postman, Weights & Biases (W&B).
 
 ---
 
-## 📈 Contributions
+## 🔬 Research & Impactful Projects
 
-Here is some information on my projects and contributions:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jikay-070203&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jikay-070203&langs_count=8&layout=compact&hide=css,dockerfile&theme=transparent)
+### **Featured Research**
+* **Deep Reinforcement Learning in Finance (ICIIT 2025):** "Mastering Market Peaks and Valleys: Advanced Trading with DRL." Investigated autonomous decision-making in volatile financial markets.
+
+### **Applied AI Projects**
+* **Smart Waste Management:** Building an AI-driven identification system for provincial students to automate waste classification.
+* **HAZONIX:** Developing an AI-integrated real-estate platform to optimize property listings and user matching.
+* **Legal Data Crawler (TVPL):** Architecting a high-performance system to crawl and process legal data for downstream NLP tasks.
+* **Youth Union Management System:** Digital transformation project for Dong Nai Province.
+
+---
+
+## 🏆 Achievements & Impact
+* 🥇 **First Prize at Provincial Hackathon:** Project successfully integrating AI and Web.
+* 🧑‍🏫 **Teaching Assistant (Data Science):** FPT University.
+* 🧑‍💼 **ICT Trainer (2024):** Technology training for Thu Duc City People's Committee officials, focusing on AI and IT knowledge.
+
+---
+
+## 📈 Engineering Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jikay-070203&show_icons=true&theme=transparent" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jikay-070203&langs_count=8&layout=compact&hide=css,dockerfile&theme=transparent" height="150" alt="Top Languages" />
+</div>
 
 ## **Languages and Tools:**
 
 <div style="margin: 20px">
-
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python"></code>
-  <br/>
-
-  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML"></code>
-  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS"></code>
-  <br/>
-
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" alt="TensorFlow"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch"></code>
-  <br/>
-
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL"></code>
-  <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"></code>
-  <code><img width="40px" src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket"></code>
-
 </div>
 
 ---
 
-# 📜 Certificate Portfolio Summary
+## 📜 Certification Portfolio
+* **Artificial Intelligence & Ethics:** NLP (RNN, LSTM, Transformer), Data Fairness & Ethics (IBM, DeepLearning.AI).
+* **Data Science & ML:** Supervised/Unsupervised Learning, Neural Network Optimization (UC San Diego).
+* **Cloud & DevOps:** Big Data modeling, Docker, Kubernetes, CI/CD pipelines.
 
-- Completed certifications across the following domains:
-
-## 🤖 Artificial Intelligence & Ethics
-
-- Core AI concepts and algorithms
-- Natural Language Processing with modern techniques (RNN, LSTM, Transformer)
-- Data fairness, privacy, and ethics in AI deployment
-- Real-world applications using IBM Watson and ethical considerations
-
-## 📊 Data Science & Machine Learning
-
-- Python and R for data analysis, visualization, and statistics
-- Supervised and unsupervised learning techniques
-- Deep learning fundamentals and neural network optimization
-- Project structuring and hands-on capstone experience
-
-## 💻 Software & Full-Stack Development
-
-- Web technologies: HTML, CSS, JavaScript, React, Node.js
-- Backend development using Flask and Django
-- Git, GitHub, Agile, Lean, and SDLC practices
-- Full-stack deployment projects with CI/CD pipelines
-
-## ☁️ Big Data & Cloud Computing
-
-- Big data modeling, ETL pipelines, and graph analytics
-- Cloud computing fundamentals and container orchestration (Docker, Kubernetes, OpenShift)
-
-## 🎓 Academic & Communication Skills
-
-- University-level academic research, writing, and communication
-- Critical thinking, problem-solving, and digital literacy
-
-## All certifications were earned from top institutions (IBM, University of Sydney, UC San Diego, DeepLearning.AI, etc.) via Coursera.
+---
 
 ## 📫 Contact
-
-- GitHub: [github.com/Jikay-070203](https://github.com/Jikay-070203)
-- Portfolio: [[beacons.ai/nguyenthanhhoa](https://beacons.ai/nguyenthanhhoa)]
-- Email: hoanguyenthanh07@gmail.com
-- Telegram: [https://t.me/hoanguyenthanh07](https://t.me/hoanguyenthanh07)
+* **GitHub:** [github.com/Jikay-070203](https://github.com/Jikay-070203)
+* **Portfolio:** [beacons.ai/nguyenthanhhoa](https://beacons.ai/nguyenthanhhoa)
+* **Email:** hoanguyenthanh07@gmail.com
+* **Telegram:** [@hoanguyenthanh07](https://t.me/hoanguyenthanh07)
