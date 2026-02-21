@@ -72,10 +72,7 @@
 
 ## 📉 Activity & GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jikay-070203&show_icons=true&theme=transparent&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=9f9f9f" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jikay-070203&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=00d2ff&text_color=9f9f9f" height="170" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jikay-070203&theme=transparent&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" width="100%" />
